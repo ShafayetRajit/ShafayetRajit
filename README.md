@@ -1,16 +1,14 @@
-### Hi there 👋
+###  Hello there.
+<br> 
 
-<!--
-**ShafayetRajit/ShafayetRajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+:bangladesh: Hailing from Bangladesh.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:man_shrugging: Just an undergraduate.
+
+
+
+📫 Reach me: [e-mail](shafayet.rajit.101@gmail.com)  [LinkedIn](https://www.linkedin.com/in/shafayetrajit/) 
+
+
+
