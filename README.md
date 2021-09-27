@@ -1,7 +1,5 @@
 #  Hello there. :eyes:
 <br> 
-
-
 ### :bangladesh: Hailing from Bangladesh.
 
 ### :man_shrugging: Just an undergraduate.
