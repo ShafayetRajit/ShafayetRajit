@@ -10,5 +10,8 @@
 
 📫 Reach me: [e-mail](shafayet.rajit.101@gmail.com)  [LinkedIn](https://www.linkedin.com/in/shafayetrajit/) 
 
+<hr>
+
+> "We create our own demons." 
 
 
