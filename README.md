@@ -1,16 +1,57 @@
-#  Hello there. :eyes: <br> 
-### :bangladesh: Hailing from Bangladesh.
+#  Hello there. <img alt="wave" width="40px" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" /> :eyes: <br> 
 
-### :man_shrugging: Just an undergraduate.
+:house_with_garden: Hailing from Bangladesh.
 
-### :game_die: Trying out various things.
+:man_student: CSE graduate from North South University.
 
-### 📫 Reach me: [e-mail](shafayet.rajit.101@gmail.com)  [LinkedIn](https://www.linkedin.com/in/shafayetrajit/) 
+:brain: Fascinated by everything related to AI. 
 
-### :brain: Things I like: :film_strip: :books: :video_game: :martial_arts_uniform: :keyboard: :mountain: :soccer:
+:man_technologist: Interested in research. 
+
+#
+
+<p align="center">
+  <a href="shafayet.rajit.101@gmail.com"><img width="52px" alt="Gmail" title="Youtube" src="https://www.svgrepo.com/show/243092/gmail.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.svgrepo.com/show/469190/linkedin.svg"><img width="52px" alt="LinkedIn" title="LinkedIn" src="https://www.svgrepo.com/show/469190/linkedin.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/r_a_j_i_t"><img width="52px" alt="Twitter" title="Twitter" src="https://cdn.worldvectorlogo.com/logos/x-2.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
 <hr>
+<p align="center">
+  <img alt="Python" width="40" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img alt="Java" width="40" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="C" width="40" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+  <img alt="C++" width="40" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+  <img alt="R" width="40" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 
-> "We create our own demons." *- Oscar Wilde* 
+  <img alt="SQL" width="40" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 
+  <img alt="Jupyter" width="40" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  <img alt="Pandas" width="40" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"  />
+  <img alt="PyTorch" width="40" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+  <img alt="Tensorflow" width="40" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  <img alt="Numpy" width="40" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"  />
+
+  <img alt="Flask" width="40" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  <img alt="Django" width="40" height ="40"  style="padding-right:20px;" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
+  <img alt="FastAPI" width="40" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+
+
+  <img alt="HTML" width="40" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img alt="CSS" width="40" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img alt="JavaScript" width="40" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
+  <img alt="Docker" width="40" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  <img alt="Linux" width="40" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="Latex" width="40" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+
+  <img alt="GitHub" width="40" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</p>
+<hr>
+
+
+> "We create our own demons." *- Oscar Wilde*
 
