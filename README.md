@@ -48,7 +48,7 @@
   <img title="Linux" alt="Linux" width="45" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img title="Latex" alt="Latex" width="45" style="padding-right:20px;" src="https://www.svgrepo.com/show/377983/latex.svg" />
 
-  <img title="GitHub" alt="GitHub" width="45" style="padding-right:20px;" src="https://www.svgrepo.com/show/503359/github.svg" />
+  <img title="Git" alt="Git" width="45" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 <hr>
 
