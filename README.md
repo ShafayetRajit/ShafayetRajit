@@ -11,7 +11,7 @@
 #
 
 <p align="center">
-  <a href="shafayet.rajit.101@gmail.com"><img width="52px" alt="Gmail" title="Youtube" src="https://www.svgrepo.com/show/243092/gmail.svg"/></a>
+  <a href="shafayet.rajit.101@gmail.com"><img width="52px" alt="Gmail" title="Gmail" src="https://www.svgrepo.com/show/243092/gmail.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.svgrepo.com/show/469190/linkedin.svg"><img width="52px" alt="LinkedIn" title="LinkedIn" src="https://www.svgrepo.com/show/469190/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
