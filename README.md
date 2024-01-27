@@ -52,6 +52,10 @@
 </p>
 <hr>
 
+<h3 align="center">Visitor Count</h1>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ShafayetRajit/count.svg" />
+</p>
 
 > "We create our own demons." *- Oscar Wilde*
 
