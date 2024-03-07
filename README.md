@@ -11,9 +11,11 @@
 #
 
 <p align="center">
-  <a href="mailto:shafayet.rajit.101@gmail.com"><img width="52px" alt="Gmail" title="Gmail" src="https://www.svgrepo.com/show/243092/gmail.svg"/></a>
+  <a href="mailto:shafayet.rajit.101@gmail.com"><img width="52px" alt="Gmail" title="Gmail" src="https://www.svgrepo.com/show/349378/gmail.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/shafayetrajit/"><img width="52px" alt="LinkedIn" title="LinkedIn" src="https://www.svgrepo.com/show/469190/linkedin.svg"/></a>
+  <a href="https://www.linkedin.com/in/shafayetrajit/"><img width="52px" alt="LinkedIn" title="LinkedIn" src="https://www.svgrepo.com/show/349436/linkedin.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://medium.com/@shafayet.rajit.101"><img width="52px" alt="Medium" title="LinkedIn" src="https://www.svgrepo.com/show/349449/medium.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
@@ -22,7 +24,7 @@
   <img title="Python" alt="Python" width="45" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img title="Java" alt="Java" width="45" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img title="C" alt="C" width="45" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-  <img title="C++" alt="C++" width="45" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+  <img title="C++" alt="C++" width="45" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
   <img title="R" alt="R" width="45" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 
   <img title="SQL" alt="SQL" width="45" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
