@@ -15,7 +15,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/shafayetrajit/"><img width="52px" alt="LinkedIn" title="LinkedIn" src="https://www.svgrepo.com/show/349436/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@shafayet.rajit.101"><img width="52px" alt="Medium" title="LinkedIn" src="https://www.svgrepo.com/show/349449/medium.svg"/></a>
+  <a href="https://medium.com/@shafayet.rajit.101"><img width="52px" alt="Medium" title="Medium" src="https://www.svgrepo.com/show/349449/medium.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
