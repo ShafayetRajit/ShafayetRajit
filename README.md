@@ -29,7 +29,7 @@
 
   <img title="SQL" alt="SQL" width="45" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 
-  <img title="Pandas" alt="Jupyter" width="45" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  <img title="Jupyter" alt="Jupyter" width="45" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
   <img title="Pandas" alt="Pandas" width="45" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"  />
   <img title="PyTorch" alt="PyTorch" width="45" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
   <img title="Tensorflow" alt="Tensorflow" width="45" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
