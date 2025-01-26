@@ -59,5 +59,5 @@
   <img src="https://profile-counter.glitch.me/ShafayetRajit/count.svg" />
 </p>
 
-> "What we do in life, echoes in eternity"
+> "What we do in life, echoes in eternity."
 
