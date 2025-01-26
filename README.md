@@ -59,5 +59,5 @@
   <img src="https://profile-counter.glitch.me/ShafayetRajit/count.svg" />
 </p>
 
-> "We create our own demons." *- Oscar Wilde*
+> "What we do in life, echoes in eternity"
 
