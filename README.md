@@ -54,10 +54,5 @@
 </p>
 <hr>
 
-<h3 align="center">Visitor Count</h1>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ShafayetRajit/count.svg" />
-</p>
-
 > "What we do in life, echoes in eternity."
 
